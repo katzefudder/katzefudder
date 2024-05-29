@@ -1,7 +1,7 @@
 ![Snake animation](https://raw.githubusercontent.com/katzefudder/katzefudder/output/github-contribution-grid-snake.svg)
 
 ### Hello - I am a Software Engineer and Photographer from 🇩🇪 doing ☁️ things
-### Available for new opportunities -> feel free to contact me: flo@katzefudder.de
+### Available for new opportunities -> feel free to reach out: flo@katzefudder.de
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 &nbsp;

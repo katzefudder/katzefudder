@@ -1,7 +1,10 @@
 ![Snake animation](https://raw.githubusercontent.com/katzefudder/katzefudder/output/github-contribution-grid-snake.svg)
 
 ### Hello - I am a Software Engineer and Photographer from 🇩🇪 doing ☁️ things
-### Working for CGI
+### Working for Netlution
+
+### Did you know you could hire me as a photographer?
+Go see my 📷 Portfolio on my personal web page -> [Photography Portfolio](https://www.katzefudder.de/#portfolio)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 &nbsp;

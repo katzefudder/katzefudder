@@ -23,5 +23,5 @@ Go see my 📷 Portfolio on my personal web page -> [Photography Portfolio](http
 <a href="https://www.linkedin.com/in/floriandehn/"><img src="https://img.shields.io/badge/Flo-Dehn?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.flickr.com/photos/katzefudder/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flickr&color=0063DC&logo=Flickr&logoColor=FFFFFF&label="></a>
 <a href="https://www.instagram.com/katzefudder/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="/></a>
-<a href="mailto:spam@katzefudder.de"><img src="https://img.shields.io/badge/-spam@katzefudder.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:flo@katzefudder.de"><img src="https://img.shields.io/badge/flo@katzefudder.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>

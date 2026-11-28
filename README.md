@@ -7,7 +7,7 @@
 ### Did you know you can hire me as a photographer, too?
 -> get in contact flo@katzefudder.de
 
-### In my spare time, I have to deal a lot with cameras and stuff - and I shoot sports. Therefore, I created a tool to support the workflow of sports photographers: [Captioner](https://www.katzefudder.de/captioner) << it's free and open source.
+### In my spare time, I have to deal a lot with cameras and stuff - and I shoot sports. Therefore, I created a tool to support the workflow of sports photographers: [Captioner](https://www.katzefudder.de/captioner)
 
 
 Go see my 📷 Portfolio on my personal web page -> [Photography Portfolio](https://www.katzefudder.de/#photo)
